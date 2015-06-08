@@ -1,0 +1,8 @@
+2.2 Working with fuzzy tuned PID proven code
+2.3 More fuzzy less pid untested
+2.4 very little pid   not working yet
+2.2 Works the Best
+2.5 Will be 2.2 with bits of 2.4 and Owens Autonomous Idea being it will balance well but the final stopping of motors will incorporte a more strict/vertical balance mode allowing drift for a set amount of space but not leaning.
+2.6 replaced failed 2.5 back to version 2.2 and just owens code
+2.7 added more commands for speech ]
+2.8 is working 2.7 refined code needs standup refinment and errors in app taken care of (conflict control)
